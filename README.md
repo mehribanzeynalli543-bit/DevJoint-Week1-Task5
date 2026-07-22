@@ -4,7 +4,7 @@ Bu proyekt müasir veb standartlarına, **WCAG (Web Content Accessibility Guidel
 
 ---
 
-## Əlçatanlıq (Accessibility / A11y) İcraatı
+## Əlçatanlıq (Accessibility) 
 
 Əlçatanlıq mərhələsində görülən işlər 4 əsas meyar üzrə tam reallaşdırılmışdır:
 
